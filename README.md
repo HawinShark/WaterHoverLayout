@@ -1,4 +1,4 @@
-[![Platform][1]][2]  [![Build Status][3]][4]  [![Release][5]][6]  [![GitHub license][7]][8]  [![Downloads][9]][10]
+[![Platform][1]][2]  [![Release][5]][6]  [![GitHub license][7]][8]  [![Downloads][9]][10]
 
 [1]:https://img.shields.io/badge/platform-iOS-orange.svg
 [2]:https://github.com/HawinShark/WaterHoverLayout
